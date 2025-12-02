@@ -1,0 +1,16 @@
+# Ignore data files
+data/
+*.csv
+
+# Ignore model files
+artifacts/
+*.h5
+*.keras
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
